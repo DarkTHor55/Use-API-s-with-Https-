@@ -1,0 +1,5 @@
+sbse ple env variable bnao aur usme ko ivalue assign kro aur use khai use kro
+
+aur fr ek nyi application-dev.properties nm se fule bnau jha pr hum ek nya port assgin krengye to jo hume profile k hisb se chiy data wo dalengye ab jha jha b hum env ho use krengye to wha yhi se jaega data
+
+uske bt ek nya runner bnao aur usme env. varible mai spring.profiles.active=dev  set kro aur uskee bd run kr do fr hum agar dev wali file k port mai claengye to uska hi env clega wrna default wale se hi clega
